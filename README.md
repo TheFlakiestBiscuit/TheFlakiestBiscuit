@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, I'm TheFlakiestBiscuit 👋</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Sky5.jpg" 
+  <img src="https://raw.githubusercontent.com/TheFlakiestBiscuit/TheFlakiestBiscuit/main/Sky5.jpg" 
        alt="Sunset sky" 
        width="250" 
        style="border: 2px solid #ccc; border-radius: 10px;" />
