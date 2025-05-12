@@ -16,9 +16,9 @@
 
 <pre><code>Frameworks: React, Node.js
 
-Languages: JavaScript, PHP, SQL, HTML/CSS
+Languages: Java, JavaScript, PHP, SQL, HTML/CSS
 
-Learning: UI/Interface Design
+Learning: Object-Oriented Programming (multiple languages)
 
 Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
 </code></pre>
@@ -29,6 +29,7 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
     <li>🍴 <strong>RecipeVault</strong> – React app for storing and managing recipes</li>
     <li>📊 <strong>StatInsights</strong> – Salary analysis tool with graphs and hypothesis testing</li>
     <li>🐘 <strong>PHP Projects</strong> – Session/cookie-based web tools with MySQL</li>
+    <li>🎮 <strong>Legends of the Earthen Vaults</strong> – Text-based Java adventure game with SQLite and object-oriented features</li>
   </ul>
 </div>
 
