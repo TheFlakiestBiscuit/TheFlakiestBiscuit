@@ -27,7 +27,6 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
   <strong>💻 Current Projects</strong>
   <ul>
     <li>🍴 <strong>RecipeVault</strong> – React app for storing and managing recipes</li>
-    <li>📊 <strong>StatInsights</strong> – Salary analysis tool with graphs and hypothesis testing</li>
     <li>🐘 <strong>PHP Projects</strong> – Session/cookie-based web tools with MySQL</li>
     <li>🎮 <strong>Legends of the Earthen Vaults</strong> – Terminal-based Java adventure game
   </ul>
@@ -39,7 +38,6 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
   <strong>🧠 2025 Goals</strong>
   <ul>
     <li>✅ Complete portfolio website</li>
-    <li>🤝 Join an open source initiative</li>
     <li>⚛️ Master React state + hooks for complex apps</li>
   </ul>
 </div>
