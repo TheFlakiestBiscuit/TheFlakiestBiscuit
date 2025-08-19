@@ -6,17 +6,9 @@
 
 <table>
   <tr>
-    <td align="center" width="410">
-      <img src="https://raw.githubusercontent.com/TheFlakiestBiscuit/TheFlakiestBiscuit/main/Sky5.jpg"
-           alt="Sunset sky"
-           width="410"
-           style="border: 2px solid #ccc; border-radius: 10px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-
 <pre><code>Frameworks: React, Node.js, Express.js, Chart.js
 
-Languages: Java, JavaScript, PHP, SQL, HTML, CSS, Bash/Shell
+Languages: Java, JavaScript, Python, PHP, SQL, HTML, CSS, Bash/Shell
 
 Tools & Skills: Git, GitHub, VSCode, npm, REST APIs, Automation Scripts, React DevTools, Figma
 
@@ -34,8 +26,34 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
     <li>🍴 <strong>RecipeVault</strong> – React app for storing and managing recipes</li>
     <li>🐘 <strong>PHP Projects</strong> – Session/cookie-based web tools with MySQL</li>
     <li>🎮 <strong>Legends of the Earthen Vaults</strong> – Terminal-based Java adventure game</li>
-    <li>⚙️ <strong>Automation Toolkit</strong> – Node.js project combining file monitoring, 
+    <li>⚙️ <strong>Automation Toolkit</strong> – Python project combining file monitoring, 
     system cleanup, and backup scripts into a single toolkit</li>
+  </ul>
+</div>
+
+---
+
+<div style="margin-top: 10px;">
+  <strong>🛠️ Skills Demonstrated (RecipeVault)</strong>
+  <ul>
+    <li>Front-end development with React.js</li>
+    <li>State management with React hooks and localStorage persistence</li>
+    <li>User interface design with styled components and chart integration</li>
+    <li>Dynamic form handling for recipe input and editing</li>
+    <li>Component-based architecture for clean, scalable code</li>
+  </ul>
+</div>
+
+---
+
+<div style="margin-top: 10px;">
+  <strong>🛠️ Skills Demonstrated (Legends of the Earthen Vaults)</strong>
+  <ul>
+    <li>Object-oriented programming with Java (inheritance, polymorphism, abstraction)</li>
+    <li>Game engine design for a text-based adventure system</li>
+    <li>SQLite database integration for persistent save/load functionality</li>
+    <li>Custom command parser for interactive gameplay</li>
+    <li>Software design principles including composition and modularity</li>
   </ul>
 </div>
 
@@ -44,8 +62,9 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
 <div style="margin-top: 10px;">
   <strong>🛠️ Skills Demonstrated (Automation Toolkit)</strong>
   <ul>
-    <li>Process automation with Node.js and JavaScript</li>
-    <li>File system monitoring, cleanup, and backup workflows</li>
+    <li>Process automation with Python scripting</li>
+    <li>Lightweight DevOps-style tooling for system health and workflow efficiency</li>
+    <li>File system monitoring, automatic cleanup, log rotation, and backup workflows</li>
     <li>Command-line utilities and scripting</li>
     <li>Version control and collaborative development with Git/GitHub</li>
   </ul>
@@ -54,10 +73,13 @@ Hobbies: Hiking, Photography, Fitness, Gaming, Cooking, DIY Projects
 ---
 
 <div style="margin-top: 20px;">
-  <strong>🧠 2025 Goals</strong>
+  <strong>🧠 2025-2026 Goals</strong>
   <ul>
     <li>✅ Complete portfolio website</li>
-    <li>⚛️ Master React state + hooks for complex apps</li>
+    <li>☁️ Gain hands-on experience with cloud platforms (AWS, Azure, or GCP)</li>
+    <li>📈 Strengthen monitoring/observability skills (logging, metrics, alerts)</li>
+    <li>🔧 Build and refine lightweight DevOps-style automation scripts</li>
+    <li>🐳 Learn containerization and orchestration basics (Docker & Kubernetes)</li>
   </ul>
 </div>
     </td>
